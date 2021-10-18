@@ -1,0 +1,17 @@
+    //Create git-started-general-imrenagycc
+e6b31b7528e25fe6a6efe1884b8b362dee6d029c
+
+    //Delete git-started-general-imrenagycc
+82dc0f3e13e68be3624e5bbfd523f0c1bd7bda7d
+
+    //Filter temp folder and tmp extension
+c1cd047da941f08e6e163344159d0fe68eaa4a07
+
+    //Create TXT with the first sentence of Lorem Ipsum
+b2f85a24c102ceb017b01b1586b61bde7f2d2770
+
+    //Added first four sentences of Lorem Ipsum
+8d410208113daff532501053914ba42e72e77fe6
+
+    //Renamed file from lorem.txt to lorem_ipsum.txt
+043039040f13d60aa91c2dcc4ff0a36577bcc24b
